@@ -17,6 +17,7 @@ Here's my portfolio:
 On the other hand, things I've built outside of web... Only look if you're interested! 
 -> https://www.youtube.com/playlist?list=PL1WKw5TA93F9g3-bxFlFuTt84tZQYw1Ji
 
+[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")
 <!--
 **rjtedoco/rjtedoco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
