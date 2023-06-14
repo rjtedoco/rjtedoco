@@ -8,7 +8,7 @@ Here's my portfolio:
 1. https://reeent.vercel.app/
 - Airbnb clone: made with ReactJS, NextJS, TypeScript, TailwindCSS, Zustand, Prisma, MongoDB, Cloudinary
 
-2. https://github.com/rjtedoco/spotify-clone
+2. https://spotify-clone-rjtedoco.vercel.app/
 - Spotify clone: made with ReactJS, NextJS, TypeScript, TailwindCSS, Zustand, Supabase, PostgreSQL
 
 3. https://github.com/rjtedoco/mern-social-media
