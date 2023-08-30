@@ -2,6 +2,8 @@
 
 My name is R-Jay Tedoco! With a dash... Or you can just call me RJ. 😉
 
+I build boring software interfaces for a living.
+
 I am a professional software developer, specializing in Frontend Development.
 
 ## Tech Stack
