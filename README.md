@@ -2,10 +2,6 @@
 
 My name is R-Jay Tedoco! With a dash... Or you can just call me RJ. 😉
 
-I build boring software interfaces for a living.
-
-I am a professional software developer, specializing in Frontend Development.
-
 ## Tech Stack
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
@@ -22,20 +18,8 @@ I am a professional software developer, specializing in Frontend Development.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## Portfolio:
 
-1. https://reeent.vercel.app/
-- Airbnb clone: made with ReactJS, NextJS, TypeScript, TailwindCSS, Zustand, Prisma, MongoDB, Cloudinary
-[<img src="https://github.com/rjtedoco/rjtedoco/assets/62593824/7faef967-3475-4a93-bc42-16b6bd27a354" width="50%">](https://reeent.vercel.app/ "Airbnb Clone")
-
-2. https://spotify-clone-rjtedoco.vercel.app/
-- Spotify clone: made with ReactJS, NextJS, TypeScript, TailwindCSS, Zustand, Supabase, PostgreSQL
-[<img src="https://github.com/rjtedoco/rjtedoco/assets/62593824/3f1bcc57-d522-4487-a269-7eb17b353d73" width="50%">](https://reeent.vercel.app/ "Spotify Clone")
-
-3. https://github.com/rjtedoco/mern-social-media
-- Social media like Facebook: ReactJS, RTK, RTK-Query, NodeJS, Express, MongoDB
-
-## On the other hand, things I've built outside of web... Only look if you're interested! 
+## Things I've built outside of web
 -> https://www.youtube.com/playlist?list=PL1WKw5TA93F9g3-bxFlFuTt84tZQYw1Ji
 
 [<img src="https://i3.ytimg.com/vi/VVYLr4dbsOw/maxresdefault.jpg" width="50%">](https://youtu.be/VVYLr4dbsOw "Across The Ocean")
